@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XRecyclerView</string>
+    <!-- 上拉刷新，下拉加载控件 -->
+    <string name="footer_hint_load_normal">加载更多</string>
+    <string name="footer_hint_load_ready">松开加载更多</string>
+    <string name="footer_hint_load_no_more">没有更多数据</string>
+</resources>
