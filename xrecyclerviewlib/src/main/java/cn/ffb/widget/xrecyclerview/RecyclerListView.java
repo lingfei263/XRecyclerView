@@ -11,7 +11,6 @@ import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.view.View;
 
-import cn.ffb.utils.DisplayUtils;
 
 
 /**
