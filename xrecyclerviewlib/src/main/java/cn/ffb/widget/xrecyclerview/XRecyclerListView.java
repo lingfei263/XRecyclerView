@@ -7,6 +7,8 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
 
+import cn.ffb.utils.DisplayUtils;
+
 
 /**
  * Created by lingfei on 2016/4/12.
